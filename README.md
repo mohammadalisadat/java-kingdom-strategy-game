@@ -3,7 +3,7 @@
 This project is a structured strategy game developed in Java with a user interface and multiple gameplay systems.  
 The game includes story-driven scenarios, timed events, automatic resource collection, and support for managing multiple game sessions.
 ## Visuals
-![Game Screenshot](picture/pic1.jpg,(picture/pic2.jpg))
+![Game Screenshot](picture/pic1.jpg)
 
 ## Features
 - Graphical user interface
