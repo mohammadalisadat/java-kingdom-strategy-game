@@ -1,0 +1,20 @@
+White Walkers;moji1;0;;2025-11-11 15:57:47;GAMES\game_37\replays\replay_4733d667-3fee-4350-80ac-a55f4dfe6bf2.rep;0;0;0;0
+White Walkers;moji1;0;;2025-11-11 15:57:47;GAMES\game_37\replays\replay_953d4bec-1698-415d-91ef-19ea07ebfff4.rep;0;0;0;0
+moji;moji1;1;;2025-11-11 15:58:18;GAMES\game_37\replays\replay_7dfa9bf4-a1c8-4506-bed0-2a615d691b43.rep;1000;1000;0;1000
+moji;moji1;1;;2025-11-11 15:58:18;GAMES\game_37\replays\replay_9e17d555-328a-4a6e-9feb-8587d9ba552e.rep;1000;1000;0;1000
+White Walkers;moji1;0;;2025-11-11 15:59:13;GAMES\game_37\replays\replay_779200ef-d25f-4299-a2a9-02758796a871.rep;0;0;0;0
+White Walkers;moji1;0;;2025-11-11 15:59:13;GAMES\game_37\replays\replay_610cba8e-f9db-4a3a-810e-87e06fcafbc7.rep;0;0;0;0
+White Walkers;moji1;0;;2025-11-11 16:00:38;GAMES\game_37\replays\replay_56d6005d-f5b8-4d6a-9761-b1fad3af4506.rep;0;0;0;0
+White Walkers;moji1;0;;2025-11-11 16:00:38;GAMES\game_37\replays\replay_93472e30-156c-4424-89a2-2c761923b1d4.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:02:09;GAMES\game_37\replays\replay_72d38ba2-766c-4f44-94e4-30e93f7c6c96.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:02:09;GAMES\game_37\replays\replay_02a8e299-d56f-4b0d-a726-a8d00a80587a.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:03:34;GAMES\game_37\replays\replay_8af6ca07-259a-48bc-93b0-79f382de0c47.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:03:34;GAMES\game_37\replays\replay_14893799-ea5c-4938-b4d5-0e892e2cbc4c.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:04:59;GAMES\game_37\replays\replay_343ba6b2-e623-4fbe-bcc7-832ca382539e.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:04:59;GAMES\game_37\replays\replay_b6f55b27-d50a-4e34-8de6-da6b4896f273.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:06:25;GAMES\game_37\replays\replay_f96d7122-f098-4e93-bc22-5574c9315726.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:06:25;GAMES\game_37\replays\replay_9b4eb7d3-8ad0-4f33-9782-b5db22208f25.rep;0;0;0;0
+White Walkers;moji1;0;;2025-11-11 16:07:50;GAMES\game_37\replays\replay_a4ef020a-83ab-49c9-972c-875bee5c8920.rep;0;0;0;0
+White Walkers;moji1;0;;2025-11-11 16:07:50;GAMES\game_37\replays\replay_9d2662c4-0891-4890-b79e-9fafd2666d0c.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:07:50;GAMES\game_37\replays\replay_828fdfa2-8a5b-4ca8-96a6-90fe79a8eeea.rep;0;0;0;0
+White Walkers;moji;0;;2025-11-11 16:07:50;GAMES\game_37\replays\replay_465b2a6f-1616-4c01-969b-5d4324e1b2fa.rep;0;0;0;0

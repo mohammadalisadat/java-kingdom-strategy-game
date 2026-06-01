@@ -1,0 +1,17 @@
+White Walkers;ali;0;;2025-09-14 02:54:15;GAMES\game_4\replays\replay_0c48d3f8-557e-4766-9a4e-107da63ff5b9.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 02:54:15;GAMES\game_4\replays\replay_9531a991-87b8-4163-9bf4-706a672a0131.rep;0;0;0;0
+ali;ali1;2;ARCHER:73,CAVALRY:100;2025-09-14 02:56:15;GAMES\game_4\replays\replay_d606530a-773d-437e-9c9a-4c780ab074e4.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_34dae920-6712-40e3-953f-46da52bddd1d.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_dbb7c95a-eac4-41e4-a621-8ac074bd0351.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_6afc7737-c310-4635-83e8-92e3ccf08071.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_176280d2-7851-4233-9b81-e2be3aeb671a.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_59aaf209-fec2-4263-949b-2b50736eb0f1.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_1d11a3b3-b88e-4be8-9abb-6718f1431e99.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_9bd5721e-6c1d-4910-8e01-857120a1fba1.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_acf0d141-a506-43ba-aa91-7e9e87fa2bfd.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_d610552e-0e92-48be-b961-3f115948406f.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_04962b82-69f2-4255-8e6c-26fa4b9c8c12.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_e144aa21-cc10-4592-874d-e6828569ea7f.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_a8af50b5-4948-4a62-a907-f4253151c659.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_6dc7ffdd-0938-43c7-9927-cd94046594dd.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 05:02:50;GAMES\game_4\replays\replay_7894e1e4-ab6e-4acb-9009-d3d4db1061a0.rep;0;0;0;0

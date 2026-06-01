@@ -1,0 +1,2 @@
+WW;QQ;2;INFANTRY:44;2025-09-10 22:33:40;assets/GAMES/game_8/replays\replay_1ecb5d4d-8014-4261-b8f6-8f4bfa0e0f6b.rep;0;0;0;0
+WW;QQ;2;INFANTRY:44;2025-09-10 22:33:40;assets/GAMES/game_8/replays\replay_9a4e8701-9580-4e9c-8b0d-6e2921710915.rep;0;0;0;0

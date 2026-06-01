@@ -1,0 +1,3 @@
+ali5;ali4;1;;2025-09-12 19:50:05;GAMES\game_3\replays\replay_069a7e0d-2d27-4032-a20a-2fa28f8edced.rep;0;0;0;0
+White Walkers;ali5;0;;2025-09-12 19:50:59;GAMES\game_3\replays\replay_978d78cc-cacb-4511-8c36-08ef41053ea0.rep;0;0;0;0
+White Walkers;ali5;0;;2025-09-12 19:50:59;GAMES\game_3\replays\replay_0f0a4a55-b9a2-4502-a1f4-49e75a796641.rep;0;0;0;0

@@ -1,0 +1,18 @@
+White Walkers;ali;0;;2025-09-14 09:44:37;GAMES\game_6\replays\replay_76e6f6b7-941a-46fc-b3db-06de2727fb3c.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-14 09:44:37;GAMES\game_6\replays\replay_89d85f54-e733-407e-911e-ac68822b61c5.rep;0;0;0;0
+ali;ali1;2;ARCHER:52,CAVALRY:100;2025-09-14 09:45:06;GAMES\game_6\replays\replay_ddc3b1be-c342-4d23-9d36-f1eec3968fda.rep;0;0;0;0
+ali;ali1;2;ARCHER:52,CAVALRY:100;2025-09-14 09:45:06;GAMES\game_6\replays\replay_634955f6-0800-4ce2-984c-a19c667c228f.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_82ae9d06-fe78-4a85-91bc-b34be16bf510.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_4247a170-2854-427d-8c8b-c51973d1c596.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_53dcd1dd-3d21-47f7-9ed2-032faaab2b18.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_66491c60-52b2-4674-8921-b7db556e5607.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_c19ae10f-2b07-4895-b94e-e68b941d821f.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_bbc72497-8818-4b63-9df7-2ec1d77acfa9.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_3b114527-2713-4186-932c-90e257440523.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_2eb99fa2-5e29-421e-966d-4c8724b6f5b4.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_1597c356-208f-4837-a4c3-b37e0ee03bcb.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_2ef10f53-0d35-441b-b0d7-0cbf95195e53.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_0919027c-65cd-47a7-8447-39e1912dac40.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_201ba569-5524-40e0-b625-7b99f7a38283.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_9b7685cb-e889-458d-8d3c-ad32a1644530.rep;0;0;0;0
+White Walkers;ali;0;;2025-09-21 15:33:11;GAMES\game_6\replays\replay_737bb632-6cde-4c27-b98a-4aff5ab07797.rep;0;0;0;0

@@ -1,0 +1,13 @@
+White Walkers;ad;0;;2025-09-20 01:20:23;GAMES\game_12\replays\replay_d479db4c-b05e-4cff-a492-939f80c20528.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:20:23;GAMES\game_12\replays\replay_91e5f87d-8752-4d70-9c63-f83bd2c35527.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:21:04;GAMES\game_12\replays\replay_62b458fa-0c9c-4d4e-bcd9-b8795fe63f5c.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:21:04;GAMES\game_12\replays\replay_f9d9d86c-57fc-4f3c-a550-b6d8342fc6bd.rep;0;0;0;0
+ad;edalatpor;2;ARCHER:73,CAVALRY:100;2025-09-20 01:21:24;GAMES\game_12\replays\replay_82d19e3f-54db-4f69-b490-8f9a2d5e60b9.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:23:56;GAMES\game_12\replays\replay_c3caa5e5-b5cf-4784-8c53-12dead143a1b.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:23:56;GAMES\game_12\replays\replay_cb6f633b-3481-4f87-b6e7-60c10215713d.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:26:50;GAMES\game_12\replays\replay_cb8d90c2-a10e-46d8-ae92-0493e4f5baca.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:26:50;GAMES\game_12\replays\replay_2f1db704-ef89-4c8f-98fc-d57ad84ff16c.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:34:23;GAMES\game_12\replays\replay_6f94dd7f-bbef-44d6-ad58-0d8cb2f226e2.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:34:23;GAMES\game_12\replays\replay_867f9489-2ada-4c62-baad-1c3817fa02b6.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:34:23;GAMES\game_12\replays\replay_e068de9f-a05b-41f2-b750-b7607f49088e.rep;0;0;0;0
+White Walkers;ad;0;;2025-09-20 01:34:23;GAMES\game_12\replays\replay_96d0a34f-01f9-49e7-af98-9bcc1cd20c96.rep;0;0;0;0
