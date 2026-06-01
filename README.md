@@ -1,38 +1,40 @@
-# لخgot
+# Java Kingdom Strategy Game
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+This project is a structured strategy game developed in Java with a user interface and multiple gameplay systems.  
+The game includes story-driven scenarios, timed events, automatic resource collection, and support for managing multiple game sessions.
 
-This project was generated with a template including simple application launchers and a main class extending `Game` that sets the first screen.
+## Features
+- Graphical user interface
+- Story-based gameplay
+- Multiple scenarios with different starting and ending conditions
+- Event-driven game logic
+- Automatic resource and money collection
+- Time-based mechanics using threads
+- Support for creating and managing multiple game sessions
+- Logging and game state management
 
-## Platforms
+## Technologies Used
+- Java
+- Object-Oriented Programming
+- UI design
+- Multithreading
+- Game logic and event handling
 
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
-- `headless`: Desktop platform without a graphical interface.
-- `lwjgl2`: Legacy desktop platform using LWJGL2.
+## Project Goals
+- Build a complex and structured Java application
+- Practice object-oriented design in a large-scale project
+- Develop game systems with time-based and event-driven behavior
 
-## Gradle
+## Future Improvements
+- Improve graphics, animations, and overall visual quality
+- Expand scenarios, characters, and story-driven events
+- Enhance save/load functionality and game state persistence
+- Improve game balancing, progression, and resource systems
+- Upgrade the game from a 2D interface to a 2.5D visual style
+- Add web-based gameplay support for better accessibility
+- Develop online multiplayer functionality
+- Implement server-side game session management for online play
 
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
-
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `headless:run`: starts the headless application. Note: if headless sources were not modified - and the application still creates `ApplicationListener` from `core` project - this task might fail due to no graphics support.
-- `idea`: generates IntelliJ project data.
-- `lwjgl2:jar`: builds application's runnable jar, which can be found at `lwjgl2/build/libs`.
-- `lwjgl2:run`: starts the application.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
-
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+## Author
+Mohammad Ali Sadat  
+Computer Engineering Student
